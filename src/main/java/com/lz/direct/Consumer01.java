@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * 这是master主分支哈哈哈哈
+ * 这是dev3.0分支
  */
 public class Consumer01 {
     public static void main(String[] args) throws IOException, TimeoutException {
