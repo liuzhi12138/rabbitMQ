@@ -5,6 +5,9 @@ import com.rabbitmq.client.*;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
+/**
+ * 这是dev2.0分支
+ */
 public class Consumer01 {
     public static void main(String[] args) throws IOException, TimeoutException {
         /**
